@@ -1,0 +1,26 @@
+01 - Introduction to Python.
+Key_Words:
+
+**Chapter-01:
+1. Modules
+2. Scikit learn 
+3. scipy
+4. NLTK 
+5. Alias
+6. variables
+ 
+**Chapter-02: 
+1. Pandas
+2. Tabular data
+3. DataFrame
+4. CSV File type
+5. Methods and Attribute
+6. logical Statement
+
+**Chapter-03: 
+1. Matplotlib
+2. Function Positional Argument and Key argument
+
+**Chapter-04:
+1. Different types of Plot and Charts
+2.  Bins , Range and Normalization in Histogram
